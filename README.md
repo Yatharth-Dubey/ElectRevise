@@ -1,7 +1,7 @@
 # ElectRevise — Voter Survey & Booth Management System
 
 <p align="center">
-  <img src="./frontend/public/icon1.png" width="180"/>
+  <img src="./Frontend/public/icon1.png" width="180"/>
 </p>
 
 <p align="center">
@@ -396,21 +396,21 @@ Do not commit `.env`.
 
 ### Yatharth Dubey
 
-GitHub
+💻GitHub : https://github.com/Yatharth-Dubey
 
-LinkedIn
+💼LinkedIn : https://www.linkedin.com/in/yatharth-dubey-34a532316
 
-Portfolio
+🌐Portfolio : https://yatharthdubey.vercel.app/
 
 ---
 
 ### Sachin Diwakar
 
-GitHub
+💻GitHub : https://github.com/sachindiwakar35
 
-LinkedIn
+💼LinkedIn : in/sachin-diwakar-604aa5338
 
-Portfolio
+🌐Portfolio : https://sachin-portfolio-plum.vercel.app/
 
 ---
 
