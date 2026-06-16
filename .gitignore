@@ -1,0 +1,22 @@
+# Node
+node_modules/
+
+# ENV
+.env
+.env.*
+client/.env
+server/.env
+
+# Build
+build/
+dist/
+
+# Logs
+npm-debug.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
