@@ -56,6 +56,27 @@ MySQL Database
 Excel Processing Engine
 ```
 
+
+<h2 align="center">Login Portal</h2>
+
+<p align="center">
+<img src="Frontend/assets/screenshot1.png" width="90%">
+</p>
+
+<h2 align="center">Admin Dashboard</h2>
+
+<p align="center">
+<img src="Frontend/assets/screenshot2.png" width="90%">
+</p>
+
+<h2 align="center">Functionalities</h2>
+
+<p align="center">
+<img src="Frontend/assets/screenshot3.png" width="90%">
+</p>
+
+
+
 ---
 
 # Complete Workflow
